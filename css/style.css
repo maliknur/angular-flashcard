@@ -1,0 +1,10 @@
+div .image-container{
+    padding: 0px;
+    margin: 0px;
+    width: 680px;
+}
+div .col-xs-3{
+    width:220px;
+    padding-left:0px;
+    padding-right:0px;
+}
