@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="animal">
+<head>
+    <meta charset="UTF-8">
+    <title>Animal Flashcards</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body ng-controller="animalCtrl as animal">
+    <div class="container">
+        <h1 class="text-center text-danger" ng-bind="animal.title"></h1>
+        <div class="well container col-xs-12">
+            <div class="col-xs-6">
+                <button class="btn btn-default" ng-click="animal.random(animal.images)">Start game</button>
+                <button class="btn btn-default" ng-click="animal.random(animal.images)">Reset game</button>
+            </div>
+            <div class="col-xs-6" ng-if="animal.counter>0">
+                <span class="text-info float-right">
+                <strong>Count: {{animal.counter}}</strong>
+            </span>
+            </div>
+        </div>
+
+
+        <div class="row">
+                <div class="container" ng-if="animal.images">
+                    <div class="col-xs-12 image-container">
+                        <div class="col-xs-3" ng-click="animal.changeSection1()">
+                            <img ng-src="{{animal.currImage[0]}}" alt="">
+                        </div>
+                        <div class="col-xs-3" ng-click="animal.changeSection2()">
+                            <img ng-src="{{animal.currImage[1]}}" alt="">
+                        </div>
+                        <div class="col-xs-3" ng-click="animal.changeSection3()">
+                            <img ng-src="{{animal.currImage[2]}}" alt="">
+                        </div>
+                    </div>
+                </div>
+
+
+        </div>
+    </div>
+    <!--libraries-->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+
+    <!--app scripts-->
+    <script src="app/app.js"></script>
+    <script src="app/appController.js"></script>
+    <script src="app/appFactory.js"></script>
+    <audio id="click" src="audio/click.wav"></audio>
+</body>
+</html>
