@@ -1,0 +1,381 @@
+[
+    {
+      "id":1,
+      "section":1,
+      "src": "img/badger1.png",
+      "name": "badger"
+    },
+    {
+      "id":2,
+      "section":2,
+      "src": "img/badger2.png",
+      "name": "badger"
+    },
+    {
+      "id":3,
+      "section":3,
+      "src": "img/badger3.png",
+      "name": "badger"
+    },
+    {
+      "id":4,
+      "section":1,
+      "src": "img/beaver1.png",
+      "name": "beaver"
+    },
+    {
+      "id":5,
+      "section":2,
+      "src": "img/beaver2.png",
+      "name": "beaver"
+    },
+    {
+      "id":6,
+      "section":3,
+      "src": "img/beaver3.png",
+      "name": "beaver"
+    },
+    {
+      "id":7,
+      "section":1,
+      "src": "img/bird1.png",
+      "name": "bird"
+    },
+    {
+      "id":8,
+      "section":2,
+      "src": "img/bird2.png",
+      "name": "bird"
+    },
+    {
+      "id":9,
+      "section":3,
+      "src": "img/bird3.png",
+      "name": "bird"
+    },
+    {
+      "id":10,
+      "section":1,
+      "src": "img/brownBear1.png",
+      "name": "brownBear"
+    },
+    {
+      "id":11,
+      "section":2,
+      "src": "img/brownBear2.png",
+      "name": "brownBear"
+    },
+    {
+      "id":12,
+      "section":3,
+      "src": "img/brownBear3.png",
+      "name": "brownBear"
+    },
+    {
+      "id":13,
+      "section":1,
+      "src": "img/buffalo1.png",
+      "name": "buffalo"
+    },
+    {
+      "id":14,
+      "section":2,
+      "src": "img/buffalo2.png",
+      "name": "buffalo"
+    },
+    {
+      "id":15,
+      "section":3,
+      "src": "img/buffalo3.png",
+      "name": "buffalo"
+    },
+    {
+      "id":16,
+      "section":1,
+      "src": "img/deer1.png",
+      "name": "deer"
+    },
+    {
+      "id":17,
+      "section":2,
+      "src": "img/deer2.png",
+      "name": "deer"
+    },
+    {
+      "id":18,
+      "section":3,
+      "src": "img/deer3.png",
+      "name": "deer"
+    },
+    {
+      "id":19,
+      "section":1,
+      "src": "img/dog1.png",
+      "name": "dog"
+    },
+    {
+      "id":20,
+      "section":2,
+      "src": "img/dog2.png",
+      "name": "dog"
+    },
+    {
+      "id":21,
+      "section":3,
+      "src": "img/dog3.png",
+      "name": "dog"
+    },
+    {
+      "id":22,
+      "section":1,
+      "src": "img/duck1.png",
+      "name": "duck"
+    },
+    {
+      "id":23,
+      "section":2,
+      "src": "img/duck2.png",
+      "name": "duck"
+    },
+    {
+      "id":24,
+      "section":3,
+      "src": "img/duck3.png",
+      "name": "duck"
+    },
+    {
+      "id":25,
+      "section":1,
+      "src": "img/eagle1.png",
+      "name": "eagle"
+    },
+    {
+      "id":26,
+      "section":2,
+      "src": "img/eagle2.png",
+      "name": "eagle"
+    },
+    {
+      "id":27,
+      "section":3,
+      "src": "img/eagle3.png",
+      "name": "eagle"
+    },
+    {
+      "id":28,
+      "section":1,
+      "src": "img/elk1.png",
+      "name": "elk"
+    },
+    {
+      "id":29,
+      "section":2,
+      "src": "img/elk2.png",
+      "name": "elk"
+    },
+    {
+      "id":30,
+      "section":3,
+      "src": "img/elk3.png",
+      "name": "elk"
+    },
+    {
+      "id":31,
+      "section":1,
+      "src": "img/fox1.png",
+      "name": "fox"
+    },
+    {
+      "id":32,
+      "section":2,
+      "src": "img/fox2.png",
+      "name": "fox"
+    },
+    {
+      "id":33,
+      "section":3,
+      "src": "img/fox3.png",
+      "name": "fox"
+    },
+    {
+      "id":34,
+      "section":1,
+      "src": "img/hedgehog1.png",
+      "name": "hedgehog"
+    },
+    {
+      "id":35,
+      "section":2,
+      "src": "img/hedgehog2.png",
+      "name": "hedgehog"
+    },
+    {
+      "id":36,
+      "section":3,
+      "src": "img/hedgehog3.png",
+      "name": "hedgehog"
+    },
+    {
+      "id":37,
+      "section":1,
+      "src": "img/lynx1.png",
+      "name": "lynx"
+    },
+    {
+      "id":38,
+      "section":2,
+      "src": "img/lynx2.png",
+      "name": "lynx"
+    },
+    {
+      "id":39,
+      "section":3,
+      "src": "img/lynx3.png",
+      "name": "lynx"
+    },
+    {
+      "id":40,
+      "section":1,
+      "src": "img/maleDeer1.png",
+      "name": "maleDeer"
+    },
+    {
+      "id":41,
+      "section":2,
+      "src": "img/maleDeer2.png",
+      "name": "maleDeer"
+    },
+    {
+      "id":42,
+      "section":3,
+      "src": "img/maleDeer3.png",
+      "name": "maleDeer"
+    },
+    {
+      "id":43,
+      "section":1,
+      "src": "img/mole1.png",
+      "name": "mole"
+    },
+    {
+      "id":44,
+      "section":2,
+      "src": "img/mole2.png",
+      "name": "mole"
+    },
+    {
+      "id":45,
+      "section":3,
+      "src": "img/mole3.png",
+      "name": "mole"
+    },
+    {
+      "id":46,
+      "section":1,
+      "src": "img/mouse1.png",
+      "name": "mouse"
+    },
+    {
+      "id":47,
+      "section":2,
+      "src": "img/mouse2.png",
+      "name": "mouse"
+    },
+    {
+      "id":48,
+      "section":3,
+      "src": "img/mouse3.png",
+      "name": "mouse"
+    },
+    {
+      "id":49,
+      "section":1,
+      "src": "img/rabbit1.png",
+      "name": "rabbit"
+    },
+    {
+      "id":50,
+      "section":2,
+      "src": "img/rabbit2.png",
+      "name": "rabbit"
+    },
+    {
+      "id":51,
+      "section":3,
+      "src": "img/rabbit3.png",
+      "name": "rabbit"
+    },
+    {
+      "id":52,
+      "section":1,
+      "src": "img/racoon1.png",
+      "name": "racoon"
+    },
+    {
+      "id":53,
+      "section":2,
+      "src": "img/racoon2.png",
+      "name": "racoon"
+    },
+    {
+      "id":54,
+      "section":3,
+      "src": "img/racoon3.png",
+      "name": "racoon"
+    },
+    {
+      "id":55,
+      "section":1,
+      "src": "img/snake1.png",
+      "name": "snake"
+    },
+    {
+      "id":56,
+      "section":2,
+      "src": "img/snake2.png",
+      "name": "snake"
+    },
+    {
+      "id":57,
+      "section":3,
+      "src": "img/snake3.png",
+      "name": "snake"
+    },
+    {
+      "id":58,
+      "section":1,
+      "src": "img/squirrel1.png",
+      "name": "squirrel"
+    },
+    {
+      "id":59,
+      "section":2,
+      "src": "img/squirrel2.png",
+      "name": "squirrel"
+    },
+    {
+      "id":60,
+      "section":3,
+      "src": "img/squirrel3.png",
+      "name": "squirrel"
+    },
+    {
+      "id":61,
+      "section":1,
+      "src": "img/whiteBear1.png",
+      "name": "whiteBear"
+    },
+    {
+      "id":62,
+      "section":2,
+      "src": "img/whiteBear2.png",
+      "name": "whiteBear"
+    },
+    {
+      "id":63,
+      "section":3,
+      "src": "img/whiteBear3.png",
+      "name": "whiteBear"
+    }
+
+  ]
