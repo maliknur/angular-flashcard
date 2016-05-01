@@ -9,6 +9,7 @@
 <body ng-controller="animalCtrl as animal">
     <div class="container">
         <h1 class="text-center text-danger" ng-bind="animal.title"></h1>
+
         <div class="well container col-xs-12">
             <div class="col-xs-6">
                 <button class="btn btn-default" ng-click="animal.random(animal.images)">Start game</button>
@@ -19,6 +20,11 @@
                 <strong>Count: {{animal.counter}}</strong>
             </span>
             </div>
+        </div>
+        <div class="container" ng-if="animal.result">
+            <h1 class="text-center">
+                Game finished!
+            </h1>
         </div>
 
 

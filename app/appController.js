@@ -19,6 +19,7 @@
         vm.changeSection3 = changeSection3;
         vm.random = randomize;
         vm.counter = 0;
+        vm.result = false;
         animalFactory.getData().then(function(data) {
             vm.data = data.data;
 
@@ -78,7 +79,7 @@
             audio.play();
         }
         function randomize(images) {
-            vm.counter = 0;
+            vm.result = '';
             vm.currImage[0] = images[0][randomNum()];
             vm.currImage[1] = images[1][randomNum()];
             vm.currImage[2] = images[2][randomNum()];
@@ -86,6 +87,10 @@
 
         function randomNum() {
             return Math.floor(Math.random()*21);
+        }
+
+        if(vm.counter > 20) {
+            vm.result = true;
         }
 
     }
